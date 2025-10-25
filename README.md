@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Somnath21-hub/Somnath21-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi I'm 👋 Somnath Mukherjee
 
 - 🔭  I’m currently studying at Techno International New Town
 - 🌱 I’m currently learning MERN STACK,AI & ML,IOT Techs
